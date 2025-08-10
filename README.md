@@ -1,6 +1,6 @@
 # Sistema de Base de Datos para la Gestión Integral de una Clínica Médica
 
-Este proyecto incluye el modelado de base de datos, conjunto de datos simulados desarrollada como parte de un trabajo académico/práctica personal.
+Este proyecto incluye el modelado de base de datos, conjunto de datos simulados desarrollada como parte de un trabajo personal.
 No contiene información real de ninguna empresa o persona.
 
 Objetivos
