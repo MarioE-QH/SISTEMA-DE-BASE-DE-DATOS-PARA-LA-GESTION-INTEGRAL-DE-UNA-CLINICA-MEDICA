@@ -1,5 +1,8 @@
 # Sistema de Base de Datos para la Gestión Integral de una Clínica Médica
 
+Este proyecto incluye el modelado de base de datos, conjunto de datos simulados desarrollada como parte de un trabajo académico/práctica personal.
+No contiene información real de ninguna empresa o persona.
+
 Objetivos
 - Optimizar el almacenamiento y consulta de información clínica y administrativa.
 - Garantizar la integridad referencial y la consistencia de los datos.
